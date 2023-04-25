@@ -11,6 +11,6 @@ Here is how the web app looks like:
 ![Screenshot 2023-04-25 070201](https://user-images.githubusercontent.com/121672287/234153211-9c0c1843-f971-4d27-9d24-66c4d4de7b46.png)
 ![Screenshot 2023-04-25 070315](https://user-images.githubusercontent.com/121672287/234153256-b2df527e-6c68-4a2b-9aa2-ee3ae6163981.png)
 ![Screenshot 2023-04-25 070348](https://user-images.githubusercontent.com/121672287/234153264-c4c5bca1-5a89-4d94-a225-42fa0611c722.png)
-<ul>
-  <li>The user is required to enter the water quality parameters of the water body of their state.</li>
-</ul>
+
+## The user is required to enter the water quality parameters of the water body of their state.</li>
+
